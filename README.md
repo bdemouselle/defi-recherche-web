@@ -3,12 +3,12 @@ Par qui, quand, pourquoi et où a été inventé Internet ?
 Source : https://fr.wikipedia.org/wiki/Internet
 
 Quelle est la difference entre le Web et Internet ?
-Internet est une infrastructure globale, dont le Web fait partie. Le web sert pour naviguer de page en pages en cliquant sur des liens grâce a un naviguateur
+Internet est une infrastructure globale, dont le Web fait partie. Le web sert pour naviguer de page en pages en cliquant sur des liens grâce a un naviguateur.
 Source : https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
 
 8.8.8.8
-
-Source :
+C'est le DNS du google public (IPv4)
+Source : https://fr.wikipedia.org/wiki/Google_Public_DNS
 
 192.168.0.1
 
