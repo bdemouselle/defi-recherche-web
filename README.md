@@ -11,8 +11,8 @@ C'est le DNS du google public (IPv4)
 Source : https://fr.wikipedia.org/wiki/Google_Public_DNS
 
 192.168.0.1
-
-Source :
+C'est l'adresse IP pour se connecté à son routeur Internet
+Source : https://wikiclic.com/192-168-1-1/
 
 255.255.255.0
 
