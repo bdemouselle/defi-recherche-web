@@ -23,8 +23,8 @@ C'est l'adresse IP du local host
 Source : https://www.howtogeek.com/126304/why-is-the-localhost-ip-127.0.0.1/
 
 Que sont le copyright et le copyleft ?
-
-Source :
+Un copyleft, c'est un logiciel libre de droit, le contraire étant le copyright, qui est un logiciel avec droit d'auteur
+Source :https://www.gnu.org/licenses/copyleft.fr.html
 
 Que sont les Creatives Commons ?
 
