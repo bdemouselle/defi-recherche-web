@@ -15,8 +15,8 @@ C'est l'adresse IP pour se connecté à son routeur Internet
 Source : https://wikiclic.com/192-168-1-1/
 
 255.255.255.0
-
-Source :
+C'est un masque de sous réseau d'IPv4. 8 bits disponibles pour 254 hôtes par sous réseau.
+Source :https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau
 
 127.0.0.1
 
