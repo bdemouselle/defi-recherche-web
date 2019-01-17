@@ -1,6 +1,6 @@
 Par qui, quand, pourquoi et où a été inventé Internet ?
-
-Source :
+2 inventeurs de ARPANET (Advanced Research Projects Agency Network) : Robert Eliot Kahn et Vint Cerf, en 1972, pour communiqué entre eux dans l'agence, en amérique.
+Source : https://fr.wikipedia.org/wiki/Internet
 
 Quelle est la difference entre le Web et Internet ?
 
